@@ -17,4 +17,4 @@ In my free time I grind leetcode and hunt for cute cat gifs on reddit.
 - ⚡ Fun fact: ... I had no idea about the famous game 2048 when I first created sjha2048 as my Internet identity 
 
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjha2048&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sjha2048&show_icons=true&hide_border=true)
