@@ -1,6 +1,7 @@
 ### Hi there 👋
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=sjha2048)
 
-I'm Sahil, a final year Computer science undergrad student at Amity University, Noida. 
+I'm a final year Computer science undergrad student at Amity University, Noida. 
 In my free time I grind leetcode and hunt for cute cat gifs on reddit.
 
 - 🔭 I’m currently working on ... Working with National Resource for Network Biology on an all in one hub for connecting resachers with each other as my Google Summer of Code project 
