@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=sjha2048)
-[![Twitter: sjha2048](https://img.shields.io/twitter/follow/sjha2048?style=social)](https://twitter.com/sjha2046)
+[![Twitter: sjha2048](https://img.shields.io/twitter/follow/sjha2048?style=social)](https://twitter.com/sjha2048)
 [![Linkedin: sjha2048](https://img.shields.io/badge/-sjha2048-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sjha2048/)](https://www.linkedin.com/in/sjha2048/)
 
 
