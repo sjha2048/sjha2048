@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![Twitter: sjha2048](https://img.shields.io/twitter/follow/sjha2048?style=social)](https://twitter.com/sjha2048)
 [![Linkedin: sjha2048](https://img.shields.io/badge/-sjha2048-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sjha2048/)](https://www.linkedin.com/in/sjha2048/)
+![ViewCount](https://views.whatilearened.today/views/github/sjha2048/sjha2048.svg)
 
 
 I'm a final year Computer science undergrad student at Amity University, Noida. 
